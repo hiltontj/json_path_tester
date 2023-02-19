@@ -1,0 +1,19 @@
+{
+    "books": [
+        {
+            "author": "Herman Melville",
+            "title": "Moby Dick",
+            "price": 10.99
+        },
+        {
+            "author": "Charles Dickens",
+            "title": "Great Expectations",
+            "price": 12.99
+        },
+        {
+            "author": "Charles Dickens",
+            "title": "David Copperfield",
+            "price": 17.99
+        }
+    ]
+}
